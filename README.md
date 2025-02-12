@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **php Laravel alongside Tailwind CSS.**
 
-- 👨‍💻 All of my projects are available at [https://prajwalbanstola.com.np/?i=1](https://prajwalbanstola.com.np/?i=1)
+- 👨‍💻 All of my projects are available at <a href="https://prajwalbanstola.com.np/?i=1">prajwalbanstola.com.np</a>
 
 - 💬 Ask me about **Laravel Framework/Breeze Auth.**
 
