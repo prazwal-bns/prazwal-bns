@@ -6,7 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/prazwal_bns" target="blank"><img src="https://img.shields.io/twitter/follow/prazwal_bns?logo=twitter&style=for-the-badge" alt="prazwal_bns" /></a> </p>
 
-- 🔭 I’m currently working on **Doctor Appointment Booking System**
+- 🔭 I’m currently working on developing a clone version of <b>"<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram logo" width="20" style="vertical-align:middle;"/> **Instagram.**"</b>
+
+
 
 - 🌱 I’m currently learning **php Laravel alongside Tailwind CSS.**
 
