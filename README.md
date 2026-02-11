@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://prajwalbanstola.com.np/?i=1">prajwalbanstola.com.np</a>
 
-- 💬 Ask me about **Laravel Framework/Breeze Auth.**
+- 💬 Ask me about **Laravel Framework.**
 
 - 📫 How to reach me **prajwalbns15@gmail.com**
 
