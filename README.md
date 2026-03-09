@@ -6,10 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/prazwal_bns" target="blank"><img src="https://img.shields.io/twitter/follow/prazwal_bns?logo=twitter&style=for-the-badge" alt="prazwal_bns" /></a> </p>
 
- booking website a.k.a **CineFlex.**"</b>
-
-
-
+ 
 - 🌱 I’m currently learning **php Laravel alongside Tailwind CSS.**
 
 - 👨‍💻 All of my projects are available at <a href="https://prajwalbanstola.com.np/?i=1">prajwalbanstola.com.np</a>
