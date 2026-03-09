@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/prazwal_bns" target="blank"><img src="https://img.shields.io/twitter/follow/prazwal_bns?logo=twitter&style=for-the-badge" alt="prazwal_bns" /></a> </p>
 
-- 🔭 I’m currently working on developing a movie booking website a.k.a **CineFlex.**"</b>
+ booking website a.k.a **CineFlex.**"</b>
 
 
 
