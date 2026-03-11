@@ -20,6 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/prazwal_bns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prazwal_bns" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/https://x.com/prazwal_bns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://x.com/prazwal_bns" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/prazwal bns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="prazwal bns" height="30" width="40" /></a>
 <a href="https://fb.com/prazwal bastola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prazwal bastola" height="30" width="40" /></a>
