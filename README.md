@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prajwal Banstola</h1>
-<h3 align="center">A passionate backend developer from Nepal</h3>
+<h3 align="center">Backend Developer from Nepal</h3>
 
 <p align="center">
   <img alt="Coding" width="350" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_640.gif" />
@@ -17,15 +17,15 @@
 
 ---
 
-* 🌱 I’m currently working on **PHP Laravel projects**
-* 👨‍💻 Portfolio: https://prajwalbanstola.com.np
-* 💬 Ask me about **Laravel & Filament**
+* 🌱 Currently building **PHP Laravel projects**
+* 👨‍💻 Portfolio: **[prajwalbanstola.com.np](https://prajwalbanstola.com.np)**
+* 💬 Ask me about **Laravel** and **Filament**
 * 📫 Email: **[prajwalbns15@gmail.com](mailto:prajwalbns15@gmail.com)**
 * ⚡ Fun fact: **I code better with coffee ☕ and a good playlist 🎶**
 
 ---
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with Me</h3>
 
 <p align="center">
   <a href="https://twitter.com/prazwal_bns">
@@ -47,7 +47,7 @@
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="40"/>
