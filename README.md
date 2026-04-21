@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/prazwal_bns" target="blank"><img src="https://img.shields.io/twitter/follow/prazwal_bns?logo=twitter&style=for-the-badge" alt="prazwal_bns" /></a> </p>
 
  
-- 🌱 I’m currently learning **php Laravel alongside Tailwind CSS.**
+- 🌱 I’m currently working on **php Laravel projects.**
 
 - 👨‍💻 All of my projects are available at <a href="https://prajwalbanstola.com.np/?i=1">prajwalbanstola.com.np</a>
 
@@ -20,7 +20,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/prazwal_bns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prazwal_bns" height="30" width="40" /></a>
-
 <a href="https://linkedin.com/in/https://x.com/prazwal_bns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://x.com/prazwal_bns" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/prazwal bns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="prazwal bns" height="30" width="40" /></a>
 <a href="https://fb.com/prazwal bastola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prazwal bastola" height="30" width="40" /></a>
