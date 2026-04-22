@@ -1,78 +1,64 @@
-<h1 align="center">Hi 👋, I'm Prajwal Banstola</h1>
-<h3 align="center">A passionate backend developer from Nepal</h3>
+<img align="right" alt="Coding" width="320" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_640.gif" />
 
-<p align="center">
-  <img alt="Coding" width="350" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_640.gif" />
+# Hi there, I'm Prajwal Banstola 👋
+
+**Backend Developer · Laravel Enthusiast · PHP Craftsman**
+
+Based in 🇳🇵 Nepal — building clean, scalable web applications with a cup of ☕ and a good playlist 🎶
+
+[![Profile Views](https://komarev.com/ghpvc/?username=prazwal-bns&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/prazwal-bns)
+[![Twitter Follow](https://img.shields.io/twitter/follow/prazwal_bns?logo=twitter&style=flat&color=1DA1F2)](https://twitter.com/prazwal_bns)
+
+---
+
+## 🧑‍💻 About Me
+
+- 🔭 Currently working on **PHP Laravel projects**
+- 🌱 Deep-diving into **Laravel & Filament**
+- 💼 Portfolio: [prajwalbanstola.com.np](https://prajwalbanstola.com.np)
+- 📬 Reach me at: **prajwalbns15@gmail.com**
+- ⚡ Fun fact: I debug faster after the second coffee
+
+---
+
+## 🛠️ Languages & Tools
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prazwal-bns&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prazwal-bns&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prazwal-bns&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/prazwal_bns">
-    <img src="https://img.shields.io/twitter/follow/prazwal_bns?logo=twitter&style=for-the-badge" />
-  </a>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prazwal-bns&theme=tokyonight" />
 </p>
 
 ---
 
-* 🌱 I’m currently working on **PHP Laravel projects**
-* 👨‍💻 Portfolio: https://prajwalbanstola.com.np
-* 💬 Ask me about **Laravel & Filament**
-* 📫 Email: **[prajwalbns15@gmail.com](mailto:prajwalbns15@gmail.com)**
-* ⚡ Fun fact: **I code better with coffee ☕ and a good playlist 🎶**
+## 🤝 Connect with Me
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/prazwal_bns)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prazwal_bns)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/prazwalbastola)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prazwal_bns)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://prajwalbanstola.com.np)
 
 ---
 
-<h3 align="center">Connect with me:</h3>
-
-<p align="center">
-  <a href="https://twitter.com/prazwal_bns">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="35" />
-  </a>
-  <a href="https://linkedin.com/in/prazwal_bns">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" />
-  </a>
-  <a href="https://stackoverflow.com/users/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="35" />
-  </a>
-  <a href="https://facebook.com/prazwalbastola">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="35" />
-  </a>
-  <a href="https://instagram.com/prazwal_bns">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35" />
-  </a>
-</p>
-
----
-
-<h3 align="center">Languages and Tools:</h3>
-
-<p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prazwal-bns&show_icons=true&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prazwal-bns&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prazwal-bns" />
-</p>
+<p align="right"><i>"Code is like coffee — the more you brew, the better it gets."</i></p>
